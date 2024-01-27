@@ -188,20 +188,6 @@ footer {
         font-size: 14px;
     }
 
-    header {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    nav ul li {
-        display: block;
-        margin-left: -8vw;
-        font-size: 10px;
-        margin-bottom: 10px;
-        background-color: rgb(154, 156, 158);
-
-    }
-
     .section-high {
         flex-direction: column;
         /* align-items: flex-start; */
